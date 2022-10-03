@@ -12,7 +12,7 @@ pipeline {
 		   
 		              steps {
 					  
-					        echo "hello all good to see you"
+					        echo "hello all good to see you ..22Q1 branch"
 					  
 					  }
 		   
@@ -23,7 +23,7 @@ pipeline {
 		   
 		              steps {
 					  
-					        echo "hello all good to see you 2"
+					        echo "hello all good to see you 22Q2 branch"
 					  
 					  }
 		   
